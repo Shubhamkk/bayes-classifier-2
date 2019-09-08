@@ -1,0 +1,8 @@
+Actual_Yes  Predicted_Yes  Predicted_No  
+
+24410  13695  10715  
+
+Actual_No  Predicted_Yes  Predicted_No  
+
+16181  5735  10446  
+

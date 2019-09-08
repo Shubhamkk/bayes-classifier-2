@@ -1,0 +1,8 @@
+Actual_Yes  Predicted_Yes  Predicted_No  
+
+50  1  49  
+
+Actual_No  Predicted_Yes  Predicted_No  
+
+100  11  89  
+
